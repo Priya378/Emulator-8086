@@ -1,1 +1,1 @@
-##### Collection of beginner-friendly  emu8086 Assembly language Programs
+##### Collection of beginner-friendly emu8086 Assembly language Programs
